@@ -1,0 +1,20 @@
+﻿  Main.cpp
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(123,17): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(123,17): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(203,21): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(203,21): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(214,17): warning C4566: character represented by universal-character-name '\u0105' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(214,17): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(214,17): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(542,13): warning C4566: character represented by universal-character-name '\u0119' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(542,13): warning C4566: character represented by universal-character-name '\u0142' cannot be represented in the current code page (1252)
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(668,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(899,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(947,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(948,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(968,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(994,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(1054,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(1055,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\48882\source\repos\Mes-projekt\Mes-projekt\Main.cpp(1056,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Mes-projekt.vcxproj -> C:\Users\48882\source\repos\Mes-projekt\x64\Debug\Mes-projekt.exe
