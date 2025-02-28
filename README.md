@@ -10,7 +10,7 @@ The calculations are performed iteratively over time, and the results are displa
 - Displays results as minimum and maximum temperature values at each time step.
 - Supports input data from .txt files.
 ### Usage Instructions
-Prepare an input .txt file containing the appropriate data for the 
+- Prepare an input .txt file containing the appropriate data for the 
 [𝐻], [𝐶] matrices, and the {𝑃} vector.
-Run the program in a terminal/IDE with access to a C++ compiler.
-The program will display the results, including the minimum and maximum temperatures for each time iteration.
+- Run the program in a terminal/IDE with access to a C++ compiler.
+- The program will display the results, including the minimum and maximum temperatures for each time iteration.
